@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\Repos\\sadoku\\Sadoku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF0D4AA-8DCB-40FD-825E-55D131F09639}|Sadoku\\Sadoku.csproj|d:\\development\\repos\\sadoku\\sadoku\\sadoku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF0D4AA-8DCB-40FD-825E-55D131F09639}|Sadoku\\Sadoku.csproj|solutionrelative:sadoku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF0D4AA-8DCB-40FD-825E-55D131F09639}|Sadoku\\Sadoku.csproj|d:\\development\\repos\\sadoku\\sadoku\\sadoku\\classes\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF0D4AA-8DCB-40FD-825E-55D131F09639}|Sadoku\\Sadoku.csproj|solutionrelative:sadoku\\classes\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF0D4AA-8DCB-40FD-825E-55D131F09639}|Sadoku\\Sadoku.csproj|d:\\development\\repos\\sadoku\\sadoku\\sadoku\\classes\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF0D4AA-8DCB-40FD-825E-55D131F09639}|Sadoku\\Sadoku.csproj|solutionrelative:sadoku\\classes\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\Development\\Repos\\sadoku\\Sadoku\\Sadoku\\Classes\\Board.cs",
+              "RelativeDocumentMoniker": "Sadoku\\Classes\\Board.cs",
+              "ToolTip": "D:\\Development\\Repos\\sadoku\\Sadoku\\Sadoku\\Classes\\Board.cs",
+              "RelativeToolTip": "Sadoku\\Classes\\Board.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:37:17.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "D:\\Development\\Repos\\sadoku\\Sadoku\\Sadoku\\Classes\\Tile.cs",
+              "RelativeDocumentMoniker": "Sadoku\\Classes\\Tile.cs",
+              "ToolTip": "D:\\Development\\Repos\\sadoku\\Sadoku\\Sadoku\\Classes\\Tile.cs",
+              "RelativeToolTip": "Sadoku\\Classes\\Tile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:37:09.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development\\Repos\\sadoku\\Sadoku\\Sadoku\\Program.cs",
+              "RelativeDocumentMoniker": "Sadoku\\Program.cs",
+              "ToolTip": "D:\\Development\\Repos\\sadoku\\Sadoku\\Sadoku\\Program.cs",
+              "RelativeToolTip": "Sadoku\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:36:38.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
