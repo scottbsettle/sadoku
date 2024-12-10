@@ -82,12 +82,36 @@ namespace Sadoku.Classes
         private void CheckCols()
         {
             for (int i = 0; i <= 9; i++) {
-                
+                List<int> cols = new List<int>();
+                for (int j = 0; j <= 9; j++) {
+                    if (cols.Contains(Tiles[i][j].GetAssignedNumber()))
+                    {
+                        Tiles[i][j].SetIsValid(false);
+                    }
+                    else
+                    {
+                        cols.Add(Tiles[i][j].GetAssignedNumber());
+                    }
+                }
             }
         }
         private void CheckRows()
         {
-
+            for (int i = 0; i <= 9; i++)
+            {
+                List<int> cols = new List<int>();
+                for (int j = 0; j <= 9; j++)
+                {
+                    if (cols.Contains(Tiles[j][i].GetAssignedNumber()))
+                    {
+                        Tiles[j][i].SetIsValid(false);
+                    }
+                    else
+                    {
+                        cols.Add(Tiles[j][i].GetAssignedNumber());
+                    }
+                }
+            }
         }
 
         private void CheckBoxes()
